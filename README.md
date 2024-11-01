@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Manish Yadav, a fourth year at IIT Kharagpur. I work with backend.
 
 <!--
 **angetenar21/angetenar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
